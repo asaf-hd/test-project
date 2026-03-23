@@ -2,12 +2,5 @@
 
 This is placeholder content for `test.md`.
 
-## Purpose
-
-- Verify repository write access
-- Confirm Git commit workflow
-- Validate GitHub push in a single deployment step
-
-## Notes
-
-This file can be replaced with real project documentation later.
+- Created automatically as part of a single-step Git workflow
+- Safe to replace with real project documentation later
