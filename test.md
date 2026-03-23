@@ -1,6 +1,6 @@
-# Test Project
+# Test
 
-This is placeholder content for `test.md`.
+This is placeholder content for test-project.
 
-- Created automatically as part of a single-step Git workflow
-- Safe to replace with real project documentation later
+- Created by autonomous git workflow step
+- Safe to replace with real content later
