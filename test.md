@@ -1,15 +1,13 @@
-# Test Project Notes
+# Test Project
 
 This is placeholder content for `test.md`.
 
 ## Purpose
-- Verify the repository can be updated and pushed successfully
-- Provide a simple markdown file for testing Git workflow automation
 
-## Placeholder Items
-- Replace this content with real project notes later
-- Keep commits small, atomic, and easy to review
-- Confirm CI and branch protections before merging larger changes
+- Verify repository write access
+- Confirm Git commit workflow
+- Validate GitHub push in a single deployment step
 
-## Status
-This file was created or refreshed as part of a single deployment step.
+## Notes
+
+This file can be replaced with real project documentation later.
