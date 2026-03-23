@@ -1,6 +1,7 @@
-# Test
+# Test Project
 
-This is placeholder content for test-project.
+This is placeholder content for `test.md`.
 
-- Created by autonomous git workflow step
-- Safe to replace with real content later
+- Project: test-project
+- Repository: asaf-hd/test-project
+- Purpose: verify autonomous file creation, commit, and push workflow
