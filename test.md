@@ -1,7 +1,7 @@
 # Test Document
 
-This is placeholder content for repository verification.
+This is a placeholder markdown file created to verify the Git workflow.
 
-- Created as part of a single Git workflow step
-- Intended to confirm file creation, staging, commit, and push
-- Safe to replace with real project content later
+- Project: test-project
+- Purpose: test repository update
+- Status: initial placeholder content
