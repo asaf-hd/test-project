@@ -1,7 +1,7 @@
-# Test
+# Test File
 
-This is a placeholder markdown file for the test-project repository.
+This is placeholder content for `test.md`.
 
-- Purpose: verify file creation
-- Status: placeholder content
-- Next step: replace with real documentation or notes
+- Project: test-project
+- Repository: asaf-hd/test-project
+- Purpose: verify file creation, commit, and push workflow
