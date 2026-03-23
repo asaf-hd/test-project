@@ -1,5 +1,13 @@
-# Test File
+# Test Document
 
-This file was updated by the workflow.
+This is a placeholder markdown file created as part of an automated Git workflow test.
 
-Update marker: 2026-03-23T00:00:00Z
+## Purpose
+
+- Verify file creation in the active project repository
+- Validate staging, committing, and pushing changes to GitHub
+- Provide a simple tracked artifact for end-to-end testing
+
+## Notes
+
+Content is intentionally minimal and can be replaced later with project-specific documentation.
