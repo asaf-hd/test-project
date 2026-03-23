@@ -1,19 +1,19 @@
 # Test Document
 
-This is placeholder content for the `test-project` repository.
+This is placeholder markdown content for testing the repository workflow.
 
 ## Overview
 
-- Purpose: verify the end-to-end Git workflow
-- Scope: create a markdown file, commit it, and push it to GitHub
-- Status: in progress
+- Created automatically as part of an end-to-end Git workflow
+- Intended to verify file creation, commit, and push behavior
+- Safe to replace with real project content later
 
 ## Notes
 
-This file was generated automatically as part of a test deployment workflow.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ## Next Steps
 
-1. Review the placeholder content
-2. Replace it with project-specific documentation if needed
-3. Continue iterating with small, atomic commits
+1. Review the file contents
+2. Update with project-specific documentation if needed
+3. Keep commits atomic and descriptive
