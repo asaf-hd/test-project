@@ -1,7 +1,3 @@
-# Test File
+# Test
 
-This is placeholder content for `test.md`.
-
-- Project: test-project
-- Repository: asaf-hd/test-project
-- Purpose: verify file creation, commit, and push workflow
+This file was created automatically by the git deployment workflow.
