@@ -1,6 +1,13 @@
-# Test
+# Test Project
 
-This file was created automatically as part of an end-to-end Git workflow test.
+This is a placeholder document created to verify the repository workflow.
 
-- Repository: asaf-hd/test-project
-- Purpose: verify autonomous create, commit, and push flow
+## Purpose
+
+- Confirm local repository access
+- Validate file creation
+- Test commit and push to GitHub
+
+## Notes
+
+This content is intentionally simple and can be replaced with real project documentation later.
