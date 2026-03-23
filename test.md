@@ -1,13 +1,19 @@
-# Test Project
+# Test Document
 
-This is a placeholder document created to verify the repository workflow.
+This is placeholder content for the `test-project` repository.
 
-## Purpose
+## Overview
 
-- Confirm local repository access
-- Validate file creation
-- Test commit and push to GitHub
+- Purpose: verify the end-to-end Git workflow
+- Scope: create a markdown file, commit it, and push it to GitHub
+- Status: in progress
 
 ## Notes
 
-This content can be replaced with real project documentation later.
+This file was generated automatically as part of a test deployment workflow.
+
+## Next Steps
+
+1. Review the placeholder content
+2. Replace it with project-specific documentation if needed
+3. Continue iterating with small, atomic commits
