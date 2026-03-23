@@ -10,4 +10,4 @@ This is a placeholder document created to verify the repository workflow.
 
 ## Notes
 
-This content is intentionally simple and can be replaced with real project documentation later.
+This content can be replaced with real project documentation later.
