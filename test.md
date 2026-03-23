@@ -1,13 +1,6 @@
-# Test Document
+# Test File
 
-This is a placeholder markdown file created to verify the end-to-end Git workflow.
+This file was created automatically as part of an end-to-end Git workflow test.
 
-## Purpose
-
-- Confirm file creation in the repository
-- Validate staging and committing changes
-- Verify pushing updates to GitHub
-
-## Notes
-
-This content is intentionally simple and can be replaced later with real project documentation.
+- Repository: asaf-hd/test-project
+- Purpose: verify clone/open, file creation, commit, and push
